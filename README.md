@@ -38,3 +38,25 @@ The code performs the following steps:
 ## Usage
 
 1. Ensure you have the necessary libraries installed:
+2. Download the "StudentsPerformance.csv" dataset and place it in the same directory as the code.
+
+3. Run the code in a Jupyter Notebook or Google Colab environment.
+
+## Insights
+
+- The analysis provides insights into the factors that contribute to student failure.
+- It identifies demographic characteristics associated with unsuccessful students.
+- The visualizations help to understand the distribution of scores and the relationships between variables.
+
+## Future Work
+
+- Further analysis can be conducted to explore the impact of different interventions on student performance.
+- Machine learning models can be developed to predict student success based on demographic and academic factors.
+
+## Contributing
+
+Contributions to this project are welcome. Feel free to open issues or submit pull requests.
+
+## License
+
+This project is licensed under the MIT License.
